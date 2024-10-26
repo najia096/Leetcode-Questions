@@ -24,7 +24,7 @@ Space Complexity: O(n)
 '''
 For the solution,
 We will first sort the list based on its first element
-Then for each interval 
+Then for each interval we compare last element with the next interval's first element.
 
 '''
 
