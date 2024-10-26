@@ -18,7 +18,7 @@ Space Complexity = O(n)
 '''
 For the solution,
 Will approach a stack based solution
-There can be three scenarios for the input conditions: char is a digit, or '[', or a ']'
+There can be four scenarios for the input conditions: char is a digit, or '[', or a ']', or a character letter
 We will take two stacks, one for storing the counts and one for storing each substring inside []
 '''
 
